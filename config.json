@@ -1,0 +1,55 @@
+{
+    "room_id":"23171075",
+    "lotteries":[
+        {
+            "start_time":"2022-02-05 20:22:00",
+            "duration":"300",
+            "cond_type":"danmuku_contain",
+            "danmuku_content":"虎",
+            "only_once":true,
+            "prize_name":"B站在售个性装扮（自选）",
+            "prize_num":10,
+            "display_time":120
+        },
+        {
+            "start_time":"2022-02-05 21:00:00",
+            "duration":"210",
+            "cond_type":"danmuku_equal",
+            "danmuku_content":"新春快乐单推多多",
+            "only_once":true,
+            "prize_name":"B站在售个性装扮（自选）+虚拟主播新春会周边徽章（套）",
+            "prize_num":5,
+            "display_time":60
+        },
+        {
+            "start_time":"2022-02-05 21:04:30",
+            "duration":"210",
+            "cond_type":"danmuku_equal",
+            "danmuku_content":"V面助你DD",
+            "only_once":true,
+            "prize_name":"红牛（箱）",
+            "prize_num":2,
+            "display_time":60
+        },
+        {
+            "start_time":"2022-02-05 21:37:00",
+            "duration":"210",
+            "cond_type":"gift",
+            "gift_name":"辣条",
+            "only_once":true,
+            "prize_name":"小电视海豹抱枕",
+            "prize_num":6,
+            "display_time":90
+        },
+        {
+            "start_time":"2022-02-05 22:10:00",
+            "duration":"240",
+            "cond_type":"gift",
+            "gift_name":"新春快乐",
+            "only_once":true,
+            "prize_name":"14寸高清副屏",
+            "prize_num":1,
+            "display_time":60
+        }
+    ]
+}
